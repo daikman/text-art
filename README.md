@@ -2,6 +2,8 @@
 
 This is a tool that takes some text and draws an image with that text.
 
+I think it would be cool to make a movie poster using its screenplay, or an album cover using its lyrics.
+
 ## Example
 
 ![](images/example.png)
